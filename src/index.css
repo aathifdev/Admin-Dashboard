@@ -13,6 +13,7 @@ body,
 .app{
   display: flex;
   position: relative;
+  color: red;
 }
 
 ::-webkit-scrollbar{
